@@ -2,8 +2,8 @@
 #include "stdafx.h"
 #include <string>
 
-/*
+
 //My cout is shout
-void shout(std::string shoutThis);
+void say(std::string );
 //my cin is ear for listening for the users input
-std::string ear(std::string PromptUser);*/
+std::string ear(std::string PromptUser);

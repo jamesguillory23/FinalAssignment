@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <string>
 #include <iostream>
-/*
+
 
 //This is here so that I don't have to use std for every function
 using namespace std;
@@ -26,8 +26,4 @@ std::string ear(std::string PromptUser)
 }
 
 
-int main()
-{
-	return 0;
-}*/
 
